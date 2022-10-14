@@ -13,7 +13,7 @@ namespace AggTRAKcSHARP
 
     public class Program
     {
-        //I am a moron 1
+        //I am a moron, yes i am
 
         static void Main(string[] args)
         {
