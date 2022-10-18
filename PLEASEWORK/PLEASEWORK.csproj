@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="RFIDLibrary">
-      <HintPath>..\..\..\..\OneDrive\Desktop\Linux library\RFIDLibrary.dll</HintPath>
+    <Reference Include="CAENRFIDLibrary">
+      <HintPath>..\..\..\..\OneDrive\Desktop\Windows Library\CAENRFIDLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
 
